@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&family=Oswald:wght@300;400;600;700&display=swap');
+
+* {
+    margin: 0;
+}
+
 /* This will effect everything from 0 to 576px */
 
 
